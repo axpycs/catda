@@ -2,4 +2,4 @@ language: python
 rvm:
   - "3.9"
 script:
-  - pytest
+  - python my_app.py x.py
